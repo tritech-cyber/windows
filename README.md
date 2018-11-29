@@ -1,5 +1,7 @@
 
 # windows
+# using powershell
+# wmic path softwarelicensingservice get OA3xOriginalProductKey
 #### Create a repository called windows in your gitub account. (example: https://github.com/tritech-cyber/windows)
 #### Create the following folders in the respository : screenshots, system, security, docs and ...
 ### https://msdn.microsoft.com/en-us/  (Microsoft downloads)
