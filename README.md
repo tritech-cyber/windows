@@ -1,7 +1,7 @@
 
-# windows
-# using powershell
-# wmic path softwarelicensingservice get OA3xOriginalProductKey
+### windows
+### using powershell
+### wmic path softwarelicensingservice get OA3xOriginalProductKey
 #### Create a repository called windows in your gitub account. (example: https://github.com/tritech-cyber/windows)
 #### Create the following folders in the respository : screenshots, system, security, docs and ...
 ### https://msdn.microsoft.com/en-us/  (Microsoft downloads)
@@ -16,6 +16,8 @@
 ### * * * * * * * * * * * * * * * * * 
 ### * process-explorer (see link above)(upload the output to github.com/user/windows/docs/
 ### * tcpview (upload output the to github.com/user/windows/docs/)
+<pre>
+draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
 _____ Add the following folder: screenshots, system, security, docs and ...
@@ -46,7 +48,7 @@ _____ Enable OpenSSH and OpenSSH Server
            Manage optional features
            +Add a feature
             (Add OpenSSH Client and OpenSSH Server)
-
+</pre)
 . . . .
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Enable God Mode ++
@@ -61,6 +63,11 @@ _____ Enable OpenSSH and OpenSSH Server
 ### RDPConnections.{241D7C96-F8BF-4F85-B01F-E2B043341A4B}.
 ### Printers.{2227A280-3AEA-1069-A2DE-08002B30309D}.
 ### 
+## Oracle Java JDK ClassPath
+Control Panel\System and Security\System
+vaiable: JAVA_HOME : C:\Program Files\Java\jdk-11.0.1
+path: %JAVA_HOME%\bin
+###
 ### https://www.youtube.com/watch?v=QmE4LrBSChQ  (watch this and do it)
 ### (Do this at home please.)  Download https://www.gpg4win.org  and play with it.
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
