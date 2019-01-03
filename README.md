@@ -16,11 +16,11 @@
 ## More: http://www.uscyberpatriot.org/competition/training-materials/windows
 
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-### 2018 Cyber installation checklist - start with a VM (Wamware)
-### * * * * * * * * * * * * * * * * * 
-### * process-explorer (see link above)(upload the output to github.com/user/windows/docs/
-### * tcpview (upload output the to github.com/user/windows/docs/)
+## 2018 Cyber installation checklist - start with a VM (Wamware)
+# * * * * * * * * * * * * * * * * * 
 <pre>
+ * process-explorer (see link above)(upload the output to github.com/user/windows/docs/
+ * tcpview (upload output the to github.com/user/windows/docs/)
 draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
