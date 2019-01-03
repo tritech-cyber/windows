@@ -14,46 +14,6 @@
 ### GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 #### https://www.bleepingcomputer.com/tutorials/enable-godmode-in-windows/
 ## More: http://www.uscyberpatriot.org/competition/training-materials/windows
-
-## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-## 2018 Cyber installation checklist - start with a VM (Wamware)
-# * * * * * * * * * * * * * * * * * 
-<pre>
- * process-explorer (see link above)(upload the output to github.com/user/windows/docs/
- * tcpview (upload output the to github.com/user/windows/docs/)
-draft - not official
-#WINDDOWS VM (VMWARE) CHECKLIST
-_____ Create a "windows" repo in your github account.
-_____ Add the following folder: screenshots, system, security, docs and ...
-_____ Process explorer - upload text output to docs
-_____ Install and run tcpview - upload text output to docs
-_____ Change the name of your computer (hostname)
-_____ Install firefox and chrome
-_____ Install and run Packettracer
-_____ Install and use git
-_____ Install and use atom.io
-_____ Install and use putty (64bit)
-_____ Install and use cygwin
-_____ Configure Cygwin for ssh
-_____ Configure Cygwin to compile c code.
-_____ Compile and C code using Cygwin.
-_____ Install JDK from Oracle (8 and/or 11)
-_____  Configure classpath for JDK. (Caution)
-_____  Compile and run JAVA,
-_____  Enable GOD MODE ++
-_____  Install gpg4win and send an encrypted textfile to  . . .
-Look at the following using file explorer: %appdata%  and %localappdata%
-_____ Upload a screenshots of the result of %appdata% to github
-_____ Upload a screenshots of the result of %localappdata% to github
-_____ Screenshot your mmc with 3 windows users with one user in a custom group.
-_____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
-_____ Enable OpenSSH and OpenSSH Server 
-          Windows-Settings>Apps>
-           Manage optional features
-           +Add a feature
-            (Add OpenSSH Client and OpenSSH Server)
-</pre)
-. . . .
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Enable God Mode ++
 ### God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}.
@@ -82,3 +42,44 @@ path: %JAVA_HOME%\bin
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://www.oracle.com/technetwork/java/javase/downloads/index.html
 ### https://signal.org/docs/  (Look at this.)
+
+## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+<pre>
+2018 Cyber installation checklist - start with a VM (Wamware)
+* * * * * * * * * * * * * * * * * 
+* process-explorer (see link above)(upload the output to github.com/user/windows/docs/
+* tcpview (upload output the to github.com/user/windows/docs/)
+draft - not official
+#WINDDOWS VM (VMWARE) CHECKLIST
+_____ Create a "windows" repo in your github account.
+_____ Add the following folder: screenshots, system, security, docs and ...
+_____ Process explorer - upload text output to docs
+_____ Install and run tcpview - upload text output to docs
+_____ Change the name of your computer (hostname)
+_____ Install firefox and chrome
+_____ Install and run Packettracer
+_____ Install and use git
+_____ Install and use atom.io
+_____ Install and use putty (64bit)
+_____ Install and use cygwin
+_____ Configure Cygwin for ssh
+_____ Configure Cygwin to compile c code.
+_____ Compile and C code using Cygwin.
+_____ Install JDK from Oracle (8 and/or 11)
+_____  Configure classpath for JDK. (Caution)
+_____  Compile and run JAVA,
+_____  Enable GOD MODE 
+_____  Install gpg4win and send an encrypted textfile to  . . .
+Look at the following using file explorer: %appdata%  and %localappdata%
+_____ Upload a screenshots of the result of %appdata% to github
+_____ Upload a screenshots of the result of %localappdata% to github
+_____ Screenshot your mmc with 3 windows users with one user in a custom group.
+_____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
+_____ Enable OpenSSH and OpenSSH Server 
+          Windows-Settings>Apps>
+           Manage optional features
+           +Add a feature
+            (Add OpenSSH Client and OpenSSH Server)
+</pre)
+. . . .
+
