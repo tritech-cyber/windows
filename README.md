@@ -11,6 +11,8 @@
 ### https://en.wikipedia.org/wiki/Microsoft_Baseline_Security_Analyzer
 #### https://www.microsoft.com/en-us/download/details.aspx?id=19892 (Microsoft Baseline Security Analyzer)
 #### (the above is out of date>)
+#### GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+##### https://www.bleepingcomputer.com/tutorials/enable-godmode-in-windows/
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ### 2018 Cyber installation checklist - start with a VM (Wamware)
 ### * * * * * * * * * * * * * * * * * 
