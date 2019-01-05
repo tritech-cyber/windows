@@ -14,6 +14,7 @@
 ### GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 #### https://www.bleepingcomputer.com/tutorials/enable-godmode-in-windows/
 ## More: http://www.uscyberpatriot.org/competition/training-materials/windows
+## Windows 10 registry : https://support.microsoft.com/en-us/help/322756/how-to-back-up-and-restore-the-registry-in-windows
 ## Run secpol.msc using command line.
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Enable God Mode ++
