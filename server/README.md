@@ -5,13 +5,15 @@ Simple egde fix: http://www.wackytechtips.com/windows-server-2016-enable-microso
 
 
 Cyber Security Checklist:
-- install chrome or firefox
+- Install chrome or firefox
 - Enable IIS (Internet Information Services) 
-- download a text editor
-- download a video viewer
-- 
+- Download and install a text editor
+- Download a video viewer
+- Enable Remote Desktop
 
 
 
 Read:
 https://docs.microsoft.com/en-us/windows-server/security/windows-services/security-guidelines-for-disabling-system-services-in-windows-server
+
+https://support.microsoft.com/en-us/help/4028379/windows-10-how-to-use-remote-desktop
