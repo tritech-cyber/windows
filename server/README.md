@@ -17,3 +17,4 @@ Read:
 https://docs.microsoft.com/en-us/windows-server/security/windows-services/security-guidelines-for-disabling-system-services-in-windows-server
 
 https://support.microsoft.com/en-us/help/4028379/windows-10-how-to-use-remote-desktop
+https://www.rootusers.com/how-to-enable-remote-desktop-in-windows-server-2016/
