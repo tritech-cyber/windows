@@ -9,7 +9,10 @@ Cyber Security Checklist:
 - Enable IIS (Internet Information Services) 
 - Download and install a text editor
 - Download a video viewer
+- Add users
+- Create a folder share.
 - Enable Remote Desktop
+
 
 
 
