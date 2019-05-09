@@ -1,0 +1,9 @@
+[UserConfig]
+DownDir=D:\OSTotoFolder\DriversDownLoad
+BackupDir=D:\OSTotoFolder\DriversBackup
+SoftDownDir=D:\OSTotoFolder\SoftDownLoad
+Active_Buy_Type=1
+ClickClose=0
+BackSystem=0
+DrvPreQueryTime=
+LocalErroeDrv=0
