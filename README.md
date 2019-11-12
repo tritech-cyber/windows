@@ -62,6 +62,7 @@ _____ Install firefox and chrome
 _____ Install and run Packettracer
 _____ Install and use git
 _____ Install and use atom.io
+_____ Install Audacity
 _____ Install and use putty (64bit)
 _____ Install and use cygwin
 _____ Configure Cygwin for ssh
@@ -75,7 +76,8 @@ _____  Install gpg4win and send an encrypted textfile to  . . .
 Look at the following using file explorer: %appdata%  and %localappdata%
 _____ Upload a screenshots of the result of %appdata% to github
 _____ Upload a screenshots of the result of %localappdata% to github
-_____ Screenshot your mmc with 3 windows users with one user in a custom group.
+_____ compmgmt.msc (Screenshot compmgmt.msc showing users and a custom group.)
+_____ mmc (Screenshot host mmc with 3 windows users with one user in a custom group.)
 _____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
 _____ Enable OpenSSH and OpenSSH Server 
           Windows-Settings>Apps>
