@@ -4,7 +4,7 @@
 ### using powershell
 ### wmic path softwarelicensingservice get OA3xOriginalProductKey
 #### Create a repository called windows in your gitub account. (example: https://github.com/tritech-cyber/windows)
-#### Create the following folders in the respository : screenshots, system, security, docs and ...
+#### Create the following folders in the respository : screenshots, powershell
 ### https://msdn.microsoft.com/en-us/  (Microsoft downloads)
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -53,10 +53,11 @@ path: %JAVA_HOME%\bin
 draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
-_____ Add the following folder: screenshots, system, security, docs and ...
+_____ Add the following folder: screenshots, system, security, docs
 _____ Process explorer - upload text output to docs
 _____ Install and run tcpview - upload text output to docs
 _____ Change the name of your computer (hostname)
+_____ Install 2 pdf viewers (Adobe Acrobat Reader  and your choice)
 _____ Install firefox and chrome
 _____ Install and run Packettracer
 _____ Install and use git
