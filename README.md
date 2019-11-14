@@ -54,6 +54,7 @@ draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
 _____ Add the following folders: screenshots, system, security, docs
+_____ Install Python 64 bit.  Test with yourt turtle graphics.
 _____ Process explorer - upload text output to docs
 _____ Install and run tcpview - upload text output to docs
 _____ Change the name of your computer (hostname)
