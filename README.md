@@ -53,14 +53,14 @@ path: %JAVA_HOME%\bin
 draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
-_____ Add the following folder: screenshots, system, security, docs
+_____ Add the following folders: screenshots, system, security, docs
 _____ Process explorer - upload text output to docs
 _____ Install and run tcpview - upload text output to docs
 _____ Change the name of your computer (hostname)
 _____ Install 2 pdf viewers (Adobe Acrobat Reader  and your choice)
 _____ Install firefox and chrome
 _____ Install and run Packettracer
-_____ Install and use git
+_____ Install and use git ( https://git-scm.com/downloads)
 _____ Install and use atom.io
 _____ Install Audacity
 _____ Install and use putty (64bit)
