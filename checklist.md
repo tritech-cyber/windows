@@ -40,6 +40,10 @@ _____ Enable OpenSSH and OpenSSH Server
            +Add a feature
             (Add OpenSSH Client and OpenSSH Server)
 ############################################################################
+Server client process:
+_____ Install fileZilla and connect to an ftp server.
+        Probably 10.183.1.30
+        Download irfanview (iview.7z) and install it.
 Server side processes:
 _____ Install one copy of Nginx.  Install the package at c:\nginx
 _____ Add a custom html to Nginx document root.
