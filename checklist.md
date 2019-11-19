@@ -4,6 +4,8 @@
 #WINDDOWS VM CHECKLIST (VIRTUAL BOX or VMWARE)
 TRY TO USE 64 BIT APPLICATIONS
 _____ Set VM to bridge.
+_____ Set Static ip : Control Panel\Network and Internet\Network Connections
+        AM 10.183.3.# / 16  PM 10.183.4.# / 16
 _____ Create a "windows" repo in your github account.
 _____ Add the following directories: screenshots and docs. 
         Etxra direcotories{system, security}
