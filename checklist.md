@@ -1,3 +1,4 @@
+<pre>
 2019 Cyber installation checklist - start with a VM (Wamware)
 
 #WINDDOWS VM CHECKLIST (VIRTUAL BOX or VMWARE)
@@ -59,3 +60,4 @@ _____ Place text and images in a directory "web/files"
         httpd = socketserver.TCPServer(("", PORT), Handler)
         print("serving at port", PORT)
         httpd.serve_forever()
+</pre>
