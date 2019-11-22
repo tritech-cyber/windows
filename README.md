@@ -34,6 +34,7 @@ vaiable: JAVA_HOME : C:\Program Files\Java\jdk-11.0.1
 path: %JAVA_HOME%\bin
 ###
 ### https://www.youtube.com/watch?v=QmE4LrBSChQ  (watch this and do it)
+### https://zwbetz.com/the-microsoft-console-colortool/
 ### (Do this at home please.)  Download https://www.gpg4win.org  and play with it.
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Links
