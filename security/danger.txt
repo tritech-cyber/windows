@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\System
+
+new   DWORD (32-bit) Value
+
+Name the value “VerboseStatus”, right-click it then select Modify, and in the “Value data” box enter 1.
