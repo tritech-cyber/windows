@@ -18,3 +18,7 @@ mount -t ntfs-3g -o remove_hiberfile /dev/sda? /mnt as an alternative.
     umount /mnt
     reboot
 </pre>
+
+
+
+https://www.maketecheasier.com/windows-10-registry-hacks/
