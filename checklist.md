@@ -36,6 +36,7 @@ _____ Upload a screenshots of the result of %localappdata% to github
 _____ compmgmt.msc (Screenshot compmgmt.msc showing users and a custom group.)
 _____ mmc (Screenshot host mmc with 3 windows users with one user in a custom group.)
 _____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
+_____  Install BGInfo.zip and appy the settings to your desktop.
 _____ Enable OpenSSH and OpenSSH Server 
           Windows-Settings>Apps>
            Manage optional features
