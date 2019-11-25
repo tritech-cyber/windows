@@ -1,7 +1,7 @@
 //I created this ulam spiral without looking at other code.
 //It was an accomplishement.
 //Please give me credit if you use my algorithm.
-//Craig Coleman 141207 and 181102
+//Craig Coleman 141207 & 181102
 // $javac UlamPlotScale.java (compile)
 // $java UlamPlotScale  (run)
 
@@ -42,14 +42,14 @@ public class UlamPlotScale extends JFrame { //change the name of class to match 
 
    public void paint( Graphics g )
    {
-	int scale = 31;
+	int scale = 11;
 	boolean checkPrime;
 	IsPrime is = new IsPrime();
 	int checkPrimes = 0;
 	int modPrimes = 0;
 	int nx,ny,count;
 	int red = 0, green = 0, blue = 0;
-	g.setColor(new Color(0,64,0));	g.fillRect(0,0,800,800);
+	g.setColor(new Color(64,64,64));	g.fillRect(0,0,800,800);
 	//g.setColor(new Color(red,green,blue));g.fillOval(nx,ny,5,5);
 	// code from the tty debug
 		int x = 0, y = 0,  e; // e is the end state of nlogic;
@@ -95,7 +95,7 @@ public class UlamPlotScale extends JFrame { //change the name of class to match 
 					break;
 
 				}//end select
-						g.setColor(new Color(255,255,0));
+						g.setColor(new Color(255,127,0));
 				//	g.drawLine(h+400,400-k,h+400,400-k);
 					g.fillRect(h+400,400-k,scale,scale);
 				}
