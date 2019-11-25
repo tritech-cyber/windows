@@ -127,7 +127,7 @@ public class UlamPlotScale extends JFrame { //change the name of class to match 
 						g.setColor(new Color(255,255,0));
 					break;
 				}
-						g.setColor(new Color(255,255,0));
+						g.setColor(new Color(255,127,0));
 					//g.drawLine(h+400,400-k,h+400,400-k);
 					g.fillRect(h+400,400-k,scale,scale);
 				}
