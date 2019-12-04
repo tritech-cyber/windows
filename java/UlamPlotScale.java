@@ -42,7 +42,7 @@ public class UlamPlotScale extends JFrame { //change the name of class to match 
 
    public void paint( Graphics g )
    {
-	int scale = 11;
+	int scale = 73;
 	boolean checkPrime;
 	IsPrime is = new IsPrime();
 	int checkPrimes = 0;
