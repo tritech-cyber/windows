@@ -1,0 +1,94 @@
+[System Process]	0	TCP	z00lu	57744	sea15s07-in-f1.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	z00lu	57748	sea15s07-in-f1.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	z00lu	57755	173.194.152.106	https	TIME_WAIT	2	602	1	147						
+[System Process]	0	TCP	z00lu	57756	173.194.152.106	https	TIME_WAIT	2	602	1	147						
+[System Process]	0	TCP	z00lu	57686	sea15s08-in-f6.1e100.net	https	TIME_WAIT	8	1,166	10	4,393						
+firefox.exe	5076	TCP	Z00LU	57374	localhost	57375	ESTABLISHED			7,428	7,428		10		10		
+firefox.exe	5076	TCP	Z00LU	57375	localhost	57374	ESTABLISHED	7,428	7,428			10		10			
+firefox.exe	6900	TCP	Z00LU	57378	localhost	57379	ESTABLISHED			219	219						
+firefox.exe	6900	TCP	Z00LU	57379	localhost	57378	ESTABLISHED	219	219								
+firefox.exe	3940	TCP	Z00LU	57383	localhost	57384	ESTABLISHED										
+firefox.exe	3940	TCP	Z00LU	57384	localhost	57383	ESTABLISHED										
+firefox.exe	5076	TCP	z00lu	57388	ec2-52-42-50-122.us-west-2.compute.amazonaws.com	https	ESTABLISHED	1	35	1	31						
+firefox.exe	668	TCP	Z00LU	57489	localhost	57490	ESTABLISHED			36	36						
+firefox.exe	668	TCP	Z00LU	57490	localhost	57489	ESTABLISHED	36	36								
+firefox.exe	3688	TCP	Z00LU	57609	localhost	57610	ESTABLISHED			16,495	16,495						
+firefox.exe	3688	TCP	Z00LU	57610	localhost	57609	ESTABLISHED	16,495	16,495								
+firefox.exe	5076	TCP	z00lu	57636	sea30s02-in-f3.1e100.net	https	ESTABLISHED	15	2,934	27	25,865						
+firefox.exe	5076	TCP	z00lu	57643	sea15s08-in-f10.1e100.net	https	ESTABLISHED	26	2,471	23	9,854						
+firefox.exe	5076	TCP	z00lu	57644	sea15s12-in-f193.1e100.net	https	ESTABLISHED	123	11,483	288	203,281						
+firefox.exe	5076	TCP	z00lu	57664	sea30s02-in-f2.1e100.net	https	ESTABLISHED	43	10,349	73	35,645						
+firefox.exe	5076	TCP	z00lu	57670	any-in-2678.1e100.net	https	ESTABLISHED	15	19,617	68	70,306						
+firefox.exe	5076	TCP	z00lu	57671	sea15s12-in-f3.1e100.net	https	ESTABLISHED	13	1,487	35	37,264						
+firefox.exe	5076	TCP	z00lu	57672	sea30s02-in-f1.1e100.net	https	ESTABLISHED	29	2,502	98	113,606						
+firefox.exe	5076	TCP	z00lu	57673	sea15s12-in-f206.1e100.net	https	ESTABLISHED	195	38,819	237	59,361	39	39	1	1		
+firefox.exe	5076	TCP	z00lu	57685	sea15s08-in-f14.1e100.net	https	ESTABLISHED	3	1,046	27	32,590						
+firefox.exe	9388	TCP	Z00LU	57693	localhost	57694	ESTABLISHED			2	2						
+firefox.exe	9388	TCP	Z00LU	57694	localhost	57693	ESTABLISHED	2	2								
+firefox.exe	5076	TCP	z00lu	57709	173.194.152.9	https	ESTABLISHED	19	20,566	7,922	15,850,029						
+firefox.exe	5076	TCP	z00lu	57711	sea15s11-in-f162.1e100.net	https	ESTABLISHED	10	1,324	111	147,546						
+firefox.exe	5076	TCP	z00lu	57714	sea15s07-in-f2.1e100.net	https	ESTABLISHED	8	1,182	51	63,753						
+firefox.exe	5076	TCP	z00lu	57715	sea15s11-in-f162.1e100.net	https	ESTABLISHED	11	2,199	17	7,326						
+firefox.exe	5076	TCP	z00lu	57727	sea30s01-in-f22.1e100.net	https	ESTABLISHED	7	3,081	41	46,278						
+firefox.exe	5076	TCP	z00lu	57749	sea30s01-in-f22.1e100.net	https	ESTABLISHED	3	1,190	13	14,457						
+firefox.exe	5076	TCP	z00lu	57764	any-in-2677.1e100.net	https	ESTABLISHED	23	53,192	43	26,876						
+firefox.exe	5076	TCP	z00lu	57771	sea30s02-in-f6.1e100.net	https	ESTABLISHED	7	2,530	9	4,506						
+firefox.exe	5076	TCP	z00lu	57773	any-in-2677.1e100.net	https	ESTABLISHED	6	6,988	10	9,493						
+firefox.exe	5076	TCP	z00lu	57832	sea15s07-in-f1.1e100.net	https	ESTABLISHED										
+gpg-agent.exe	7576	TCP	Z00LU	50205	Z00LU	0	LISTENING										
+gpg-agent.exe	7576	TCP	Z00LU	50206	Z00LU	0	LISTENING										
+gpg-agent.exe	7576	TCP	Z00LU	50207	Z00LU	0	LISTENING										
+gpg-agent.exe	7576	TCP	Z00LU	50208	Z00LU	0	LISTENING										
+kleopatra.exe	9192	TCP	Z00LU	50193	Z00LU	0	LISTENING										
+lsass.exe	636	TCP	Z00LU	49664	Z00LU	0	LISTENING										
+lsass.exe	636	TCPV6	z00lu	49664	z00lu	0	LISTENING										
+services.exe	612	TCP	Z00LU	49669	Z00LU	0	LISTENING										
+services.exe	612	TCPV6	z00lu	49669	z00lu	0	LISTENING										
+spoolsv.exe	2256	TCP	Z00LU	49668	Z00LU	0	LISTENING										
+spoolsv.exe	2256	TCPV6	z00lu	49668	z00lu	0	LISTENING										
+sshd.exe	7648	TCP	Z00LU	ssh	Z00LU	0	LISTENING										
+sshd.exe	7648	TCPV6	z00lu	ssh	z00lu	0	LISTENING										
+svchost.exe	876	TCP	Z00LU	epmap	Z00LU	0	LISTENING										
+svchost.exe	4712	TCP	Z00LU	5040	Z00LU	0	LISTENING										
+svchost.exe	1256	TCP	Z00LU	49666	Z00LU	0	LISTENING										
+svchost.exe	560	TCP	Z00LU	49667	Z00LU	0	LISTENING										
+svchost.exe	2760	TCP	z00lu	57339	52.242.211.89	https	ESTABLISHED	1	101	1	122						
+svchost.exe	5576	TCP	Z00LU	ms-do	Z00LU	0	LISTENING										
+svchost.exe	5408	UDP	z00lu	ssdp	*	*											
+svchost.exe	5408	UDP	Z00LU	ssdp	*	*											
+svchost.exe	2360	UDP	Z00LU	ws-discovery	*	*				16	16,184						
+svchost.exe	2360	UDP	Z00LU	ws-discovery	*	*											
+svchost.exe	4712	UDP	Z00LU	5050	*	*											
+svchost.exe	1780	UDP	Z00LU	5353	*	*											
+svchost.exe	1780	UDP	Z00LU	llmnr	*	*				114	3,020						
+svchost.exe	2360	UDP	Z00LU	53900	*	*											
+svchost.exe	2720	UDP	Z00LU	53902	*	*											
+svchost.exe	5408	UDP	z00lu	57117	*	*											
+svchost.exe	5408	UDP	Z00LU	57118	*	*											
+svchost.exe	876	TCPV6	z00lu	epmap	z00lu	0	LISTENING										
+svchost.exe	5576	TCPV6	z00lu	ms-do	z00lu	0	LISTENING										
+svchost.exe	1256	TCPV6	z00lu	49666	z00lu	0	LISTENING										
+svchost.exe	560	TCPV6	z00lu	49667	z00lu	0	LISTENING										
+svchost.exe	5408	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	5408	UDPV6	[fe80:0:0:0:1084:eb59:f61b:45d]	1900	*	*											
+svchost.exe	2360	UDPV6	z00lu	3702	*	*											
+svchost.exe	2360	UDPV6	z00lu	3702	*	*											
+svchost.exe	1780	UDPV6	z00lu	5353	*	*											
+svchost.exe	1780	UDPV6	z00lu	5355	*	*											
+svchost.exe	2360	UDPV6	z00lu	53901	*	*											
+svchost.exe	5408	UDPV6	[fe80:0:0:0:1084:eb59:f61b:45d]	57115	*	*											
+svchost.exe	5408	UDPV6	[0:0:0:0:0:0:0:1]	57116	*	*											
+System	4	TCP	z00lu	netbios-ssn	Z00LU	0	LISTENING										
+System	4	TCP	z00lu	57453	evanvm	microsoft-ds	ESTABLISHED										
+System	4	TCP	z00lu	57491	waggy11	microsoft-ds	ESTABLISHED										
+System	4	TCP	z00lu	57492	thor	microsoft-ds	ESTABLISHED										
+System	4	TCP	z00lu	57493	big-z23	microsoft-ds	ESTABLISHED										
+System	4	TCP	z00lu	57494	lb	microsoft-ds	ESTABLISHED										
+System	4	TCP	Z00LU	microsoft-ds	Z00LU	0	LISTENING										
+System	4	TCP	Z00LU	wsd	Z00LU	0	LISTENING										
+System	4	UDP	z00lu	netbios-ns	*	*		11	550	119	6,701						
+System	4	UDP	z00lu	netbios-dgm	*	*											
+System	4	TCPV6	z00lu	microsoft-ds	z00lu	0	LISTENING										
+System	4	TCPV6	z00lu	wsd	z00lu	0	LISTENING										
+wininit.exe	500	TCP	Z00LU	49665	Z00LU	0	LISTENING										
+wininit.exe	500	TCPV6	z00lu	49665	z00lu	0	LISTENING										
