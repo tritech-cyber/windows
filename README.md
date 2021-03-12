@@ -30,7 +30,7 @@
 ### 
 ## Oracle Java JDK ClassPath
 Control Panel\System and Security\System
-vaiable: JAVA_HOME : C:\Program Files\Java\jdk-11.0.1
+variable: JAVA_HOME : C:\Program Files\Java\jdk-***
 path: %JAVA_HOME%\bin
 ###
 ### https://www.youtube.com/watch?v=QmE4LrBSChQ  (watch this and do it)
