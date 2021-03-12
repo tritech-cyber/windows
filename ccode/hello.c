@@ -6,10 +6,5 @@
 #include <stdio.h>
 int main(){
   printf("**** Hello World ****\n");
-  printf("*                   *\n");
-  printf("*  CCC W     W  CCC *\n");
-  printf("* C     W W W  C    *\n");
-  printf("*  CCC   W W    CCC *\n");
-  printf("*********************\n");
   return 0;
 }

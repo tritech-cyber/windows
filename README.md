@@ -54,30 +54,32 @@ path: %JAVA_HOME%\bin
 draft - not official
 #WINDDOWS VM (VMWARE) CHECKLIST
 _____ Create a "windows" repo in your github account.
-_____ Add the following folders: screenshots      etxra{system, security, docs}
-_____ Install Python 64 bit.  Test with yourt turtle graphics.
+_____ Add the following folders: docs
+_____ Install Python 64 bit. Install for all users. Test with yourt turtle graphics.
+_____ mingw-w64-install.exe  ( https://sourceforge.net/projects/mingw-w64/  )
+_____ Install Vistual Studio Code (https://code.visualstudio.com/)
 _____ Process explorer - upload text output to docs
-_____ Install and run tcpview - upload text output to the windows repository
+_____ Install and run tcpview - upload text output to docs
 _____ Change the name of your computer (hostname)
 _____ Install 2 pdf viewers (Adobe Acrobat Reader  and your choice)
-_____ Install firefox and chrome
+_____ Install firefoxm, firedox-dev, chrome, canary, edge and chromium
 _____ Install and run Packettracer
 _____ Install and use git ( https://git-scm.com/downloads)
 _____ Install and use atom.io (optional)
-_____ Install Audacity
+_____ Install Audacity (optional)
 _____ Install and use putty (64bit)
-_____ Install and use cygwin
-_____ Configure Cygwin for ssh
-_____ Configure Cygwin to compile c code.
-_____ Compile and C code using Cygwin.
-_____ Install JDK from Oracle (8 and/or 11)
+_____ Install and use cygwin (optional)
+_____ Configure Cygwin for ssh (optional)
+_____ Configure Cygwin to compile c code. (optional)
+_____ Compile and C code using Cygwin. (optional)
+_____ Install JDK from Oracle ( 15 )
 _____  Configure classpath for JDK. (Caution)
 _____  Compile and run JAVA,
 _____  Enable GOD MODE 
 _____  Install gpg4win and send an encrypted textfile to  . . .
 Look at the following using file explorer: %appdata%  and %localappdata%
-_____ Upload a screenshots of the result of %appdata% to github
-_____ Upload a screenshots of the result of %localappdata% to github
+_____ Upload a screenshots of the result of %appdata% to github (docs)
+_____ Upload a screenshots of the result of %localappdata% to github (docs)
 _____ compmgmt.msc (Screenshot compmgmt.msc showing users and a custom group.)
 _____ mmc (Screenshot host mmc with 3 windows users with one user in a custom group.)
 _____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
